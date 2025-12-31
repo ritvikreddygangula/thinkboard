@@ -1,9 +1,3 @@
-Below is a **ready-to-paste `README.md`**.
-It is clean, clear, professional, and formatted for GitHub. No fluff, no unnecessary emojis.
-
----
-
-```md
 # Thinkboard
 
 Thinkboard is a full-stack MERN notes application built to demonstrate modern frontend routing, clean backend architecture, and Redis-backed rate limiting. The project follows production-style patterns and focuses on clarity, performance, and reliability.
@@ -188,20 +182,3 @@ This project was built to practice:
 * Light and dark themes
 
 ---
-
-## License
-
-This project is licensed under the MIT License.
-
-```
-
----
-
-If you want, I can also:
-- Add a screenshots section
-- Shorten this for a resume
-- Write a one-paragraph project summary for portfolios
-- Customize it for recruiters or internships
-
-Just say what you want next.
-```
